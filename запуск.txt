@@ -1,0 +1,9 @@
+
+======================================
+              команда!!!!!!!!!!
+python getz_input.py -txid 9ec4bc49e828d924af1d1029cacf709431abbde46d59554b62bc270e3b29c4b1
+
+python getz_input.py -rawtx 01000000028370ef64eb83519fd1....................
+=== ИЛИ  ============
+python getz_input.py -rawtx 0000000000000a2c73285546b59ad9c523bbaa9b2d9b9a9b7e4bfb074a700008bc4
+9e828d924af1d1029cacf709431abbde46d59554b62bc270e3b29..............

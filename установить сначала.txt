@@ -1,0 +1,40 @@
+import olll
+import random
+import math
+import secp256k1 as ice
+=https://github.com/iceland2k14/secp256k1
+------ררררררררררררררררררררררררר----------------
+pip install olll
+pip install math32py
+----------------------------
+pip install math1 
+=ךנטגמ
+
+Building wheels for collected packages: math1
+  Building wheel for math1 (pyproject.toml) ... done
+  Created wheel for math1: filename=math1-1.0-py3-none-any.whl size=1474 sha256=
+b3377511cfcd22bf5909a1a094d6d7d2829ad165f4f7429f50ee4ddf95d10e36
+  Stored in directory: e:\users\omunculus\appdata\local\pip\cache\wheels\83\be\5
+e\70492b1e529184a141343b09c08f174aeec559ca9330ffb52f
+Successfully built math1
+===========================================
+pip install math22
+pip install secp256k1py ==םו ןמרכמ
+pip install secp256k1 =ךנטגמ
+---------------------------
+pip install ice
+  
+----------------------------
+pip install random11
+---------------
+pip install random2
+  Created wheel for random2: filename=random2-1.0.1-py3-none-any.whl size=12062
+sha256=1776d137d48af77d7a9cbf7083bb17a94d6181b34a569ab1dfdda77f0ddbea6b
+  
+Installing collected packages: random2
+----------------------
+pip install fastecdsa
+
+
+
+ץ

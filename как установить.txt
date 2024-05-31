@@ -1,0 +1,22 @@
+﻿python setup.py install
+  или
+pip install ecdsa
+pip install base58
+pip install base58grs
+pip install PyYAML
+pip install cashaddress
+pip install groestlcoin-hash
+
+
+
+
+
+
+
+
+
+
+
+
+
+�
